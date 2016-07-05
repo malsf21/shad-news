@@ -1,8 +1,15 @@
 ---
 layout: page
 ---
+<h1 class="page-header">SHAD @ Mac News Headlines</h1>
+<div class="well">
+  <h3><marquee behavior="scroll" direction="left">
+    {% for headline in site.data.headlines %}
+      {{ headline[1].headline }} |
+    {% endfor %}
+  </marquee></h3>
+</div>
 <h1 class="page-header">News Updates</h1>
-
 <ul class="post-list">
   {% for post in paginator.posts %}
     <li>

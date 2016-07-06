@@ -1,36 +1,46 @@
 ---
 layout: page
 ---
-<h1 class="page-header">SHAD @ Mac News Headlines</h1>
+<h1 class="page-header">SHAD @ Mac News</h1>
 <div class="well">
   <h3><marquee behavior="scroll" direction="left">
     {% for headline in site.data.headlines %}
-      {{ headline[1].headline }} |
+      {{ headline[1].headline }}
     {% endfor %}
   </marquee></h3>
 </div>
-<h1 class="page-header">News Updates</h1>
-<ul class="post-list">
-  {% for post in paginator.posts %}
-    <li>
-      <h4>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small>
-      </h4>
-    </li>
-  {% endfor %}
-  <nav>
-    <ul class="pager">
-      <li>{% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-      {% else %}
-        <span class="previous">Previous</span>
-      {% endif %}</li>
-      <li><span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span></li>
-      <li>{% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-      {% else %}
-        <span class="next ">Next</span>
-      {% endif %}</li>
+<div class="row">
+  <div class="col-sm-8">
+    <h1 class="page-header">News Updates</h1>
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+        <li>
+          <h4>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+          </h4>
+        </li>
+      {% endfor %}
+      <!--
+      <nav>
+        <ul class="pager">
+          <li>{% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+          {% else %}
+            <span class="previous">Previous</span>
+          {% endif %}</li>
+          <li><span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span></li>
+          <li>{% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+          {% else %}
+            <span class="next ">Next</span>
+          {% endif %}</li>
+        </ul>
+      </nav>
+      -->
     </ul>
-  </nav>
-</ul>
+  </div>
+  <div class="col-sm-4">
+    <h1 class="page-header">Picture of the Day</h1>
+    <p>Coming soon!</p>
+  </div>
+</div>

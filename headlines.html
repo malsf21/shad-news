@@ -1,0 +1,12 @@
+---
+layout: page
+permalink: /headlines/
+---
+
+<div class="well">
+  <h1 class="page-header"><marquee behavior="scroll" direction="left">
+    {% for headline in site.data.headlines %}
+      {{ headline[1].headline }}
+    {% endfor %}
+  </marquee></h1>
+</div>

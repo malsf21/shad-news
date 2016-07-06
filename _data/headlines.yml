@@ -4,3 +4,6 @@ international1:
 international2:
   "headline" : "Fire in China ravages thousands of homes in the South."
   "category" : "International"
+national1:
+  "headline": "Canada Post issues lockout notice; service may stop on Friday."
+  "category": "National"

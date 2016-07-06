@@ -1,5 +1,5 @@
 international1:
-  "headline" : "Bombing in Medina kills over 150, with no identification of who did the attacks."
+  "headline" : "NHS Doctors protest UK Government pay plan."
   "category" : "International"
 international2:
   "headline" : "Fire in China ravages thousands of homes in the South."
@@ -7,3 +7,15 @@ international2:
 national1:
   "headline": "Canada Post issues lockout notice; service may stop on Friday."
   "category": "National"
+provincial1:
+  "headline" : "More than half of Ontarians believe that mainstream Islam is associated with violence, recent poll says."
+  "category": "Provincial"
+entertainment1:
+  "headline": "Johnny Depp changes Amber Heard tattoo from SLIM to SCUM."
+  "category": "Entertainment"
+entertainment2:
+  "headline": "Fifth Harmony Defends Aggressive security guard."
+  "category": "Entertainment"
+technology1:
+  "headline": "Juno probe enters into orbit around Jupiter."
+  "category": "Technology"

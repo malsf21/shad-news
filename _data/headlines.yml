@@ -1,21 +1,33 @@
 international1:
-  "headline" : "FBI Recommends No Criminal Charges for Hillary Clinton."
+  "headline" : "United States sanctions Kim Jong Un for the first time."
   "category" : "International"
 international2:
-  "headline" : "Zimbabwe civil servants strike over unpaid wages."
+  "headline" : "Queens of Syria, a new addition to British theatre, brings a unique adaptation of a Syrian refugee's tale to life."
   "category" : "International"
 national1:
-  "headline": "Canada Post issues lockout notice; service may stop on Friday."
+  "headline": "Justin Trudeau attends summer camp for billionaires in Idaho, receives criticism for betraying the middle class."
   "category": "National"
 provincial1:
-  "headline" : "More than half of Ontarians believe that mainstream Islam is associated with violence, recent poll says."
+  "headline" : "Recently Incarcerated Ontario Prisoners Found to be Disproportionately Killed by Drug Overdoses"
   "category": "Provincial"
+local1:
+  "headline" : "Schoolteacher in Ottawa Charged for Sexual Assault."
+  "category" : "Local"
 entertainment1:
-  "headline": "Johnny Depp changes Amber Heard tattoo from SLIM to SCUM."
+  "headline": "Kylie Jenner Fires Back at Haters After Lip Kit Company Get an F Rating from the Better Business Bureau."
   "category": "Entertainment"
 entertainment2:
-  "headline": "Fifth Harmony Defends Aggressive security guard."
+  "headline": "Gwen Stefani Files Documents for Name Change After Divorcing Gavin Rossdale."
   "category": "Entertainment"
+sports1:
+  "headline": "Portugal beats Wales 2-0, moving into Euro finals."
+  "category": "Sports"
 technology1:
-  "headline": "Juno probe enters into orbit around Jupiter."
+  "headline": "Half a million hoverboards recalled in US, over millions of dollars of purchases effected."
   "category": "Technology"
+shad1:
+  "headline": "SHAD Variety Show Auditions are this Sunday 10th: SHADs are recommended to show their talent!"
+  "category": "SHAD@Mac"
+shad2:
+  "headline": "SHAD Monthbook is looking for each McMaster SHAD graduation quotes. Please visit goo.gl/ucYn8A to fill it out!"
+  "category": "SHAD@Mac"

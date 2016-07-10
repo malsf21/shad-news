@@ -53,3 +53,7 @@ Configuration file: /var/www/html/shad-news/_config.yml
   Server running... press ctrl-c to stop.
 
 ```
+
+Visit what follows the "Server address:" line (which is normally [http://127.0.0.1:4000/shadnews/](http://127.0.0.1:4000/shadnews/), but that might change soon)!
+
+And voila! Everything should work for you. If something isn't, please let me know on our [issues tracker](https://github.com/malsf21/shad-news/issues).

@@ -1,24 +1,24 @@
 international1:
-  "headline" : "Body count rises in Phillippines as new president calls for murder of drug addicts and dealers alike."
+  "headline" : "Theresa May abolishes Department for Energy and Climate Change; transfers responsibility to new Department of Business, Energy, and Industrial Strategy."
   "category" : "International"
 international2:
-  "headline" : "11-year old Israa trekks across Europe to go to school safely."
+  "headline" : "Semi-truck hits crowd in Nice, France after Bastille day celebration."
   "category" : "International"
 national1:
-  "headline": "Canada will lead U.N. effort to single out Iran for human rights infractions."
+  "headline": "First Nations chiefs urge progress with the national inquiry on missing and murdered indigenous women."
   "category": "National"
 provincial1:
-  "headline" : "Ontario Announces Plans to Greatly Expand Network of Electric Car Chargers."
+  "headline" : "Premier Comments on Controversial Tenors' Performance."
   "category": "Provincial"
 local1:
-  "headline" : "Potential Hepatitis A case discovered in restaurants around the Edmonton area."
+  "headline" : "Man Killed in North York Shooting."
   "category" : "Local"
 entertainment1:
-  "headline": "Star Trek Creator's son unsure of gay Sulu character."
+  "headline": "LeBron James, Carmelo Anthony, Chris Paul and Dwyane Wade open 2016 ESPYs with powerful Black Lives Matter Message."
   "category": "Entertainment"
-technology1:
-  "headline": "Investors bet $21 million on Freshly's 3 minute meals."
-  "category": "Technology"
+sports:
+  "headline": "Von miller gets offered a 70 million dollar contract."
+  "category": "Sports"
 shad1:
   "headline": "SHAD Monthbook is looking for each McMaster SHAD graduation quotes. Please visit goo.gl/ucYn8A to fill it out!"
   "category": "SHAD@Mac"

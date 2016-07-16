@@ -1,24 +1,27 @@
 international1:
-  "headline" : "Theresa May abolishes Department for Energy and Climate Change; transfers responsibility to new Department of Business, Energy, and Industrial Strategy."
+  "headline" : "Coup D'État in Turkey; military faction attempts to seize control of government."
   "category" : "International"
 international2:
   "headline" : "Semi-truck hits crowd in Nice, France after Bastille day celebration."
   "category" : "International"
 national1:
-  "headline": "First Nations chiefs urge progress with the national inquiry on missing and murdered indigenous women."
+  "headline": "Canada announces plan to introduce national carbon emission price by the end of 2016."
   "category": "National"
 provincial1:
-  "headline" : "Premier Comments on Controversial Tenors' Performance."
+  "headline" : "Ontario Rejects Toronto's Request to Ban Pedestrian Texting."
   "category": "Provincial"
 local1:
-  "headline" : "Man Killed in North York Shooting."
+  "headline" : "Mosquitos in Missassauga test positive for West Nile virus."
   "category" : "Local"
 entertainment1:
   "headline": "LeBron James, Carmelo Anthony, Chris Paul and Dwyane Wade open 2016 ESPYs with powerful Black Lives Matter Message."
   "category": "Entertainment"
 sports:
-  "headline": "Von miller gets offered a 70 million dollar contract."
+  "headline": "Tom Brady accepts suspension: the Patriots will be playing Jimmy Garoppolo for the first 4 four games of the upcoming season."
   "category": "Sports"
+tech:
+  "headline": "Nintendo announces compact NES with 30 classic retro games."
+  "category": "Tech"
 shad1:
   "headline": "SHAD Monthbook is looking for each McMaster SHAD graduation quotes. Please visit goo.gl/ucYn8A to fill it out!"
   "category": "SHAD@Mac"

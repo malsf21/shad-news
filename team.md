@@ -3,20 +3,22 @@ layout: page
 title: SHAD News Team
 permalink: /team/
 ---
-**Anchors**: Eileen and Matt
+**Anchors**: Eileen K. and Matt W.
 
-**Local News**: Judy
+**Local News**: Judy W.
 
-**Provincial**: Maanvi
+**Provincial**: Maanvi D.
 
-**National**: Sherry
+**National**: Sherry L.
 
-**International**: Shama and Nathan
+**International**: Shama P. and Nathan M.
 
-**Tech/Science**: Aman
+**Tech/Science**: Aman A.
 
-**Weather**: Cathy
+**Weather**: Cathy Z.
 
-**Lifestyle**: Enshia
+**Lifestyle**: Enshia L.
 
-**Entertainment**: Sophie
+**Entertainment**: Sophie G.
+
+**Sports**: Matt M.

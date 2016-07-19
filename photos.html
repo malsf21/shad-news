@@ -1,0 +1,16 @@
+---
+layout: page
+permalink: /photos/
+title: Photos
+---
+<div class="row">
+{% for image in site.static_files %}
+    {% if image.path contains 'img/' %}
+    <div class="col-sm-4">
+      <div class="well">
+        <img class="img-responsive" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+      </div>
+    </div>
+    {% endif %}
+{% endfor %}
+</div>

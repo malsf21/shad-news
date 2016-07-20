@@ -1,27 +1,24 @@
 international1:
-  "headline" : "The CDC has announced that gonorrhea has begun to develope resistance to final two antibiotics, stating that it may be soon beyond the capabilities of modern healthcare."
+  "headline" : "US airstrike kills up to 85 civilians who were mistaken for Daesh fighters."
   "category" : "International"
 international2:
-  "headline" : "More than 15,000 education staff in Turkey have been suspended after last week's failed coup."
+  "headline" : "Turkey issues travel ban on academics."
   "category" : "International"
 national1:
-  "headline": "Canada appoints 26 new ambassadors, removing many of Harper's appointees."
+  "headline": "Canada Child Benefit payments roll out to families, ambitious social policy finally implemented."
   "category": "National"
 provincial1:
-  "headline" : "Ontario Study Reports Alarming Use of E-Cigarettes in Teens."
+  "headline" : "Judge Rules Ontario Inmate Justified in Stabbing."
   "category": "Provincial"
 local1:
   "headline" : "Home Prices Surge Again in Richmond Hill."
   "category" : "Local"
 entertainment1:
-  "headline": "Dylan O'Brien is officially coming back to Teen Wolf for its 6th season."
+  "headline": "Twitter bans user who attacked Ghostbusters star Leslie Jones."
   "category": "Entertainment"
 sports:
-  "headline": "Mark Cavendish pulls out of the Tour de France to prepare for the Olympics. Rumours surface that the Blue Jays traded Bautista for Puig."
+  "headline": Final decision on Russia's Olympic ban expected Sunday."
   "category": "Sports"
 tech:
-  "headline": "Researches discover new way to pack more data into smaller storage spaces using Chlorine atoms."
+  "headline": "Netflix suffers price rise shock after price rises to $9.99."
   "category": "Tech"
-shad1:
-  "headline": "SHAD Monthbook is looking for each McMaster SHAD graduation quotes. Please visit goo.gl/ucYn8A to fill it out!"
-  "category": "SHAD@Mac"

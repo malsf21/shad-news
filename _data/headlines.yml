@@ -1,24 +1,24 @@
+local1:
+  "headline" : "Impaired Man Arrested Trying to Launch Boat in Nanaimo, British Columbia."
+  "category" : "Local"
+provincial1:
+  "headline" : "First Nations Police Force Threatens to Strike Due to Unfavourable Working Conditions."
+  "category": "Provincial"
+national1:
+  "headline": "Canada supports liberation of Mosul from ISIS with establishment of field hospital."
+  "category": "National"
 international1:
-  "headline" : "US airstrike kills up to 85 civilians who were mistaken for Daesh fighters."
+  "headline" : "Melting permafrost in Siberia has caused bubbles of subterranean methane gas to form, which cause patches of ground to become elastic."
   "category" : "International"
 international2:
-  "headline" : "Turkey enters a state of emergency and suspends the European Convention of Human Rights."
+  "headline" : "A shooting at a Munich shopping centre which left nine people dead was carried out by one gunman who then killed himself."
   "category" : "International"
-national1:
-  "headline": "Canada Child Benefit payments roll out to families, ambitious social policy finally implemented."
-  "category": "National"
-provincial1:
-  "headline" : "Contrversy Continues Regarding Doctors Deal With Province."
-  "category": "Provincial"
-local1:
-  "headline" : "Woman in Moncton New Brunswick Detained Outside of Hospital due to Denial of Paramedic's Transport Request. Man's Body Pulled From Lake in Saint John"
-  "category" : "Local"
 entertainment1:
-  "headline": "Teen Wolf is Officially Ending."
+  "headline": "Calvin Harris spotted in quiet dinner date with Tinashe following rumours of a new romance."
   "category": "Entertainment"
 sports:
-  "headline": "Final decision on Russia's Olympic ban expected Sunday."
+  "headline": "Carey Price is 100% healthy, injury no longer a concern, says coach."
   "category": "Sports"
 tech:
-  "headline": "The US and Russia are making plans to return to the Moon together."
+  "headline": "Scientists create a super-hard metal that is four times tougher than Titanium."
   "category": "Tech"

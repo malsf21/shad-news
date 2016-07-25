@@ -1,24 +1,24 @@
 local1:
-  "headline" : "Impaired Man Arrested Trying to Launch Boat in Nanaimo, British Columbia."
-  "category" : "Local"
+  "headline": "Canaqua Holding Annual Swim in Innisfil. Ontario Breast Milk Donations Flow Into Depot in Burnaby, British Columbia."
+  "category": "Local"
 provincial1:
-  "headline" : "First Nations Police Force Threatens to Strike Due to Unfavourable Working Conditions."
+  "headline": "New Agreement Opens Access for Wine Purchase Between Ontario, BC and Quebec."
   "category": "Provincial"
 national1:
-  "headline": "Canada supports liberation of Mosul from ISIS with establishment of field hospital."
+  "headline": "Faulty elevators reach reach alarming proportions across Canada."
   "category": "National"
 international1:
-  "headline" : "Melting permafrost in Siberia has caused bubbles of subterranean methane gas to form, which cause patches of ground to become elastic."
-  "category" : "International"
+  "headline": "Democratic National Comittee chairperson Debbie Wasserman Schultz announces resignation following email leak."
+  "category": "International"
 international2:
-  "headline" : "A shooting at a Munich shopping centre which left nine people dead was carried out by one gunman who then killed himself."
-  "category" : "International"
+  "headline": "Ansbach bar explosion leaves 1 dead and 11 injured."
+  "category": "International"
 entertainment1:
-  "headline": "Calvin Harris spotted in quiet dinner date with Tinashe following rumours of a new romance."
+  "headline": "Wonder Woman premieres first trailer at Comic-Con."
   "category": "Entertainment"
 sports:
-  "headline": "Carey Price is 100% healthy, injury no longer a concern, says coach."
+  "headline": "Russia does not receive a blanket ban from Rio 2016 following the country's doping scandal."
   "category": "Sports"
 tech:
-  "headline": "Scientists create a super-hard metal that is four times tougher than Titanium."
+  "headline": "Verizon Communications is to buy Yahoo's search and advertising operations for $5 billion."
   "category": "Tech"

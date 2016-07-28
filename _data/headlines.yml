@@ -1,24 +1,3 @@
-local1:
-  "headline": "The Great Canadian Bumble Bee Count for Oakville, Ontario. Bicycle Trailers Allowed on Halifax Transit Ferries. Rotterdam Cruise Ship Makes Stop in Corner Brook Newfoundland"
-  "category": "Local"
-provincial1:
-  "headline": "Ontario Considering Following BC's Lead on Taxing Foreign Homebuyers."
-  "category": "Provincial"
-national1:
-  "headline": "Canada’s greenhouse gas policies likely to fall short of 2030 goal."
-  "category": "National"
-international1:
-  "headline": "19 people killed and 26 injured in knifing attack in Japan, largest mass there killing since WWII."
-  "category": "International"
-international2:
-  "headline": "State of Emergency declared after 2 California wildfires."
-  "category": "International"
-entertainment1:
-  "headline": "Margot Robbie Speaks Up About Really Weird Vanity Fair Interview."
-  "category": "Entertainment"
-sports:
-  "headline": "Travis scores winner on wild pitch, Jays beat Padres in 12."
-  "category": "Sports"
-tech:
-  "headline": "Blackberry battles on with Dtek50 Android phone."
-  "category": "Tech"
+goodbye:
+  "headline": "SHAD News is officially over. We'll have to sign off one last time. Thanks for watching, have a good day."
+  "category": "SHAD"

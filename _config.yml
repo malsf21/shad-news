@@ -3,7 +3,7 @@ title: SHAD@Mac News
 email: matthew.wang@ucc.on.ca
 description: > #
   The SHAD @ McMaster 2016 News website, where SHADs can learn about current events, SHAD @ Mac Events, and more from their friendly SHAD News Team.
-baseurl: "/shadnews"
+baseurl: "/shad-news"
 url: "http://matthewwang.me" # the base hostname & protocol for your site
 github: "https://github.com/malsf21/shad-news"
 askshad: "https://docs.google.com/forms/d/1jht7M8jo2xiD-EpM67LVAWlXTeHx2JAzDtpM8zFgdGg/viewform"
